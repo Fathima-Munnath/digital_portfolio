@@ -1,0 +1,46 @@
+.education{
+    padding-left: 300px;
+    font-size: 30px;
+   
+}
+.skills{
+    font-size: 30px;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+    
+
+    
+#skl{
+    font-size: 50px;
+    padding-left: 500px;
+    padding-top: 50px;
+}
+.contact{
+    font-size: 30px;
+    padding-left: 400px;
+    padding-top: 100px;
+   
+}
+.cofo{
+    padding-top: 270px;
+    padding-left: 100px;
+    font-size: 20px;
+    
+}
+.edufo{
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 20px;
+   
+}
+
+.skfo{
+    padding-top: 120px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.body{
+    background-image: linear-gradient(to right,pink ,white,pink);
+}
+
